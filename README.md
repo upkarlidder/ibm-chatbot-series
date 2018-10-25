@@ -22,6 +22,8 @@ Code Pattern: https://developer.ibm.com/patterns/create-cognitive-banking-chatbo
 Register Here: https://www.crowdcast.io/e/empower-your-chatbot-and
 
 We built a basic chatbot in part I. We continue the journey by adding more digressions and handlers to our bot thereby giving it a personality. Additionally, we will explore the more advanced features in Watson Assistant using the JSON editor.  Finally, we will add a backend service layer built on IBM functions and IBM cloud. This enables our chatbot to queries other systems and databases to better assist the user during a conversation. We will go into the two types of communications offered in Watson Assistant - server and client.
+
+[Presentation](assets/ibm-chatbot-2-empower.pdf)
  
  
 ### III - Deploy your bot to slack and other social channels
