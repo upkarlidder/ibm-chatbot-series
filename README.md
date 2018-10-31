@@ -38,7 +38,14 @@ Replay: https://www.crowdcast.io/e/deploy-your-bot-to-slack
 
 Now that you have a functioning bot, let’s deploy it to slack ! We will explore using the built in Watson Connector as well as the botkit middleware. Additionally, we will see how some of the features of Watson Assistant surface in slack and how you can use features unique to slack to enhance your conversation. We will also briefly go over other social media channels.
 
- 
+[Presentation](assets/ ibm-chatbot-3-deploy.pdf)
+
+[IBM Watson Visual Recognition](assets/ibm-watson-visual-api.pdf)
+
+[IBM Botkit Middleware](https://github.com/watson-developer-cloud/botkit-middleware)
+
+[Botkit Slack Documentation](https://botkit.ai/docs/readme-slack.html)
+
 
 ### IV - Continuously improve your Watson Bot using analytics and metrics 
 Date: 11/6
